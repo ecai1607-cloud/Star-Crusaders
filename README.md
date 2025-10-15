@@ -4,7 +4,6 @@ We´re Star Crusaders, a team working on Area 2: Robots that sustain life in spa
 > For Future Innovators, we designed Rover Hub: A cooperative network of support rovers to extend communications, signals and exploratory range for planetary missions.
 
 ## Content Breakdown
-* team_photos - Contains all the photos taken by the team.
 * prototype_photos - Includes photos of the prototypes created.
 * arduino_code - Contains all the code done on Arduino, including the explanation for them.
 * python_code - Contains all the code done on Python, including the explanation for it.
