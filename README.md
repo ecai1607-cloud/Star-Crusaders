@@ -10,3 +10,23 @@ We´re Star Crusaders, a team working on Area 2: Robots that sustain life in spa
 * models - Includes all the 3D models designed throughout the whole process.
 * videos - Shows the functional prototype.
 * schemes - Includes all the connections 
+
+---
+
+## Overview
+
+This project presents a network of cooperative exploration rovers designed for planetary research and life support in extraterrestrial environments. Each rover functions autonomously while maintaining coordination with others, forming a scalable and resilient exploration system. Built with replicable and low-cost components, the design emphasizes accessibility, automation, and real-world applicability for both educational and research purposes.
+
+Key innovations include:
+
+* Swarm and Automation System: The rovers operate collectively using swarm robotics principles, autonomously navigating terrain and optimizing task distribution without constant human supervision.
+
+* Multi-Hop Communication Mesh: A mesh-based communication network allows each rover to act as a repeater, ensuring stable data transmission and command relay across uneven or extended terrain.
+
+* Signal Amplification: The mesh system extends communication range and operational distance, improving energy efficiency and mission reliability compared to traditional single-link designs.
+
+* Simulation and Accessibility: Using affordable hardware such as ESP32, L298N, and standard DC motors, the system can be easily replicated for educational or research purposes.
+
+* Mini Laboratories: Each unit includes onboard sensors and cameras to collect environmental data (temperature, pressure, imagery), enabling mapping, documentation, and support for future extraterrestrial missions.
+
+This initiative demonstrates how collaborative, low-cost robotics can contribute to the advancement of autonomous systems and sustainable exploration beyond Earth.
